@@ -1,6 +1,6 @@
 ![Quantum Computing Header](assets/header.png)
 
-# "059432 – Quantum Computing [2024-25]" Exam Tempates
+# "059432 – Quantum Computing" Exam Tempates
 
 This repository is maintained by the student community of the "059432 – Quantum Computing" course at Politecnico di Milano.  
 It contains past exam papers and peer-contributed solutions for collaborative study and practice.  
@@ -45,6 +45,7 @@ Quantum_Computing_Exams
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 
@@ -52,7 +53,7 @@ Quantum_Computing_Exams
 
 GitHub’s default workflow for public repos applies:
 
-1. Browse to the `exams/` folder in this repository.  
+1. Browse to the `exams/` or `solutions/` folder in this repository.  
 2. Click **Add file → Upload files** to upload your `questions.pdf` or `solutions.pdf`.  
 3. GitHub will prompt you to commit to a new branch—accept and name it meaningfully (e.g., `add-exam-2024-06`).  
 4. Open a Pull Request against `main`.  
@@ -63,5 +64,5 @@ Alternatively, you can fork the repo, push your changes to a branch in your fork
 
 ## License & Disclaimer
 
-This repository is an informal, student-driven collection of past exam papers and proposed solutions for the "059432 – Quantum Computing" course at Politecnico di Milano.
-No official endorsement or permission has been obtained from the Department.
+This repository is a collaborative, student-maintained archive of past exam papers and community-contributed solutions for the "059432 – Quantum Computing" course at Politecnico di Milano.
+Its purpose is purely educational: we share, compare and discuss materials to help each other learn more effectively.
