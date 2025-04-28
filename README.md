@@ -26,7 +26,7 @@ Enable hands-on experience with existing quantum computer simulators to foster f
 ---
 
 ## Repository structure
-
+```text
 Quantum_Computing_Exams
 ├── assets/
 │   └── header.png
@@ -35,14 +35,15 @@ Quantum_Computing_Exams
 │   ├── 2024-mock.pdf           ← mock exam
 │   ├── 2025_01.pdf             ← January 2025 exam
 │   ├── 2025_02.pdf             ← February 2025 exam
-│   └── ...                     ← (soon available)
+│   └── …                       ← (soon available)
 │
 ├── solutions/
 │   ├── 2024-mock_solution.pdf
 │   ├── 2025_01_solution.pdf    ← (soon available)
 │   ├── 2025_02_solution.pdf    ← (soon available)
-│   └── ...                     ← (soon available)
+│   └── …                       ← (soon available)
 │
+├── LICENSE
 └── README.md
 
 ---
