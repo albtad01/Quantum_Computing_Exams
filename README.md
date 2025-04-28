@@ -43,7 +43,6 @@ Quantum_Computing_Exams
 │   ├── 2025_02_solution.pdf    ← (soon available)
 │   └── …                       ← (soon available)
 │
-├── LICENSE
 └── README.md
 ```
 
