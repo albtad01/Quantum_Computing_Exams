@@ -45,10 +45,6 @@ Quantum_Computing_Exams
 │
 └── README.md
 
-- **assets/**: contains the header image
-- **exams/**: each subfolder holds one exam’s questions and optional solutions  
-- **LICENSE**: informal student-driven license & disclaimer  
-
 ---
 
 ## How to contribute
